@@ -1,3 +1,5 @@
+#Docker image for a Python-based Flask application.
+
 # Base image
 FROM python:3.8
 
